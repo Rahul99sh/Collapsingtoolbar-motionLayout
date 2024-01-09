@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="orange">#F57C00</color>
+    <color name="dark_red">#601E16</color>
+    <color name="text_active">#008080</color>
+    <color name="text_sec">#4F4F4F</color>
+    <color name="text_inactive">#AAD5D5</color>
+    <color name="tab_active">#376E74</color>
+    <color name="secondary_background">#FFEDEB</color>
+    <color name="success_background">#CCE6E6</color>
+    <color name="primary">#215459</color>
+    <color name="line">#D2D2D2</color>
+    <color name="primary_dark">#1A4B50</color>
+</resources>

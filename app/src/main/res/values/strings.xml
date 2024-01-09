@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Arachnomesh UIUX Assignment</string>
+    <string name="buyers">Buyers</string>
+    <string name="_12_buyers">12 Buyers</string>
+    <string name="search_here">Search here</string>
+    <string name="all">All</string>
+    <string name="super_stocklist">Super StockList</string>
+    <string name="distributor">Distributor</string>
+    <string name="retailer">Retailer</string>
+    <string name="add">add</string>
+    <string name="home">Home</string>
+    <string name="attendence">Attendence</string>
+    <string name="orders">Orders</string>
+    <string name="more">More</string>
+    <string name="filter">filter</string>
+    <string name="notification">notification</string>
+    <string name="sphnix_cofee">SPhnix Cofee</string>
+    <string name="view_more">View More</string>
+    <string name="ritual_modern_agency">Ritual Modern Agency</string>
+    <string name="c_block_phase_2_industrial_area_sector_62_noida_u_p">C Block, Phase 2, Industrial Area, Sector 62, Noida, U.P</string>
+    <string name="order_placed">Order Placed</string>
+    <string name="view_details">View details</string>
+    <string name="not_visited">Not Visited</string>
+</resources>

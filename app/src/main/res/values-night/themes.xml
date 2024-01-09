@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ArachnomeshUIUXAssignment" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:statusBarColor">@color/primary</item>
+    </style>
+
+    <style name="searchbar" >
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/_10sdp</item>
+        <item name="hintTextColor">@color/white</item>
+        <item name="android:fontFamily">@font/figtree_regular</item>
+    </style>
+</resources>

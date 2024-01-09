@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/first"
+        android:title="@string/home"
+        android:icon="@drawable/home"/>
+    <item android:id="@+id/sec"
+        android:title="@string/buyers"
+        android:icon="@drawable/buyers"/>
+    <item android:id="@+id/third"
+        android:title="@string/attendence"
+        android:icon="@drawable/home"/>
+    <item android:id="@+id/forth"
+        android:title="@string/orders"
+        android:icon="@drawable/home"/>
+    <item android:id="@+id/fifth"
+        android:title="@string/more"
+        android:icon="@drawable/home"/>
+</menu>
