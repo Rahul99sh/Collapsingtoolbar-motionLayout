@@ -12,5 +12,6 @@
     <color name="success_background">#CCE6E6</color>
     <color name="primary">#215459</color>
     <color name="line">#D2D2D2</color>
+    <color name="card_back_color">#FAFAFA</color>
     <color name="primary_dark">#1A4B50</color>
 </resources>
